@@ -4,7 +4,7 @@ This project is a chat application prepared for BlueClip company using react nat
 
 ## Before the installation
 
-Before the installation please don't put firebase config values in firebase.ts file (app/config/firebase.ts).
+Before the installation please don't forget the put firebase config values in firebase.ts file (app/config/firebase.ts).
 
 ## Installation
 
