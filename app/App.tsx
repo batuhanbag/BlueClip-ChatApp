@@ -5,7 +5,6 @@ import {
 import { AppNavigator } from './navigators';
 import { useFonts } from 'expo-font';
 import { customFontsToLoad } from './theme';
-import { StatusBar } from 'react-native';
 
 export default function App() {
   const [areFontsLoaded] = useFonts(customFontsToLoad);
